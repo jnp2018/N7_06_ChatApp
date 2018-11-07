@@ -1,4 +1,4 @@
-# Online Chat App
+# Java Network Programming - 2018
 **Giảng viên**: Phạm Ngọc Hùng
 
 **Nhóm lớp**: 7
