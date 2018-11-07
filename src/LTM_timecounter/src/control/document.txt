@@ -1,0 +1,8 @@
+1, class Hour.java để chạy luồng giờ
+2, class Minute.java để chạy luồng phút
+3, class Second.java để chạy luồng giây
+3, tại một thời điểm chỉ có 1 luồng được thực hiện.
+
+4, class ShareData.java để : thực hiện logic toán học.
+5, class Test.java : lớp chứa hàm main() để chạy project
+6, class View.java : hiển thị giao diện 

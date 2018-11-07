@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/model/ListRoom.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/chat/ChatRoomControl.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/server/ThreadSocket.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/chat/MulticastReceive.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/chat/RemoveMemberThread.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/chat/ChatRoomView.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/chat/DeleteDataMessageThread.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/homepage/CheckThread.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/homepage/RefreshThread.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/chat/CheckThread.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/homepage/HomPageRun.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/chat/ChatRoomRun.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/homepage/FormCreatRoom.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/chat/SendDataMessageThread.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/model/ChatRoom.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/model/Room.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/chat/TakeDataMessageThread.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/login/LoginView.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/model/MessageContent.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/homepage/HomePageView.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/chat/MulticastSend.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/model/Message.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/homepage/CreatRoom.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/chat/AddMemberThread.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/model/MessageBeSaved.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/homepage/TakeListChatRoom.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/server/ServerControl.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/server/ServerRun.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/homepage/UpdateTime.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/login/LoginRun.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/chat/isUserCreatChatRoom.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/homepage/HomePageControl.java</file>
+            <file>file:/E:/LAP_TRINH_MANG/SOURCE%20CODE/LTM_BAI%20TAP%20LON/src/login/LoginControl.java</file>
+        </group>
+    </open-files>
+</project-private>
